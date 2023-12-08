@@ -1,0 +1,139 @@
+<html lang="pt-BR"><head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta http-equiv="Permissions-Policy" content="interest-cohort=()">
+
+    <title>Pokedex | BY BRENDA-A-S</title>
+
+    <link rel="shortcut icon" href="assets/imgs/favicon.png" type="image/x-icon">
+
+    <!-- css -->
+    <link rel="preload" href="./assets/css/global.css" as="style">
+    <link rel="stylesheet" href="assets/css/global.css">
+    
+    <!-- font roboto -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700&amp;display=swap" as="style">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+<style type="text/css" id="operaUserStyle"></style></head>
+
+<body>
+
+    <header class="header-bg fadeIn" aria-label="Cabeçalho">
+        <div class="header container">
+            <a href="index.html" class="logo">
+                <img src="assets/imgs/header/pokeball.svg" width="32" height="32" alt="Logo Pokeball">
+            </a>
+
+            <nav aria-label="primária" class="fadeIn">
+                <ul class="header-menu">
+                    <li><a href="index.html">Início
+                        </a>
+                    </li>
+                    <li><a href="details.html">
+                            Pokemons
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="content" aria-label="Detalhes do Pokémon">
+        <section id="loadPokemon" aria-label="Pokemon"><div class="pokemon-individual container">
+                <div class="pokemon-infos">
+                    <div class="pokemon-img slideInLeft">
+                        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png" width="300" height="300" alt="bulbasaur"> 
+                    </div>
+                    <div class="pokemon-conteudo">
+                        <span class="number slideInDown" aria-label="número do Pokemon">#001</span>
+                        <h1 class="name slideInRight">bulbasaur</h1>
+
+                        <ol class="types fadeIn" aria-label="Lista de tipos do Pokemon">
+                                <li class="type grass">grass</li><li class="type poison">poison</li>
+                        </ol>
+                    </div>
+                </div>
+                <div class="pokemon-detail fadeIn">
+                        <h2>Estatísticas</h2>
+                        <ul class="stats">
+                            
+                            <li class="stat hp">
+                                <h3>
+                                    hp
+                                </h3> 
+                                <div class="progress">
+                                    <span>45</span>
+                                    <progress value="45" max="100"></progress>
+                                </div>
+                                    
+                            </li>
+                            <li class="stat attack">
+                                <h3>
+                                    attack
+                                </h3> 
+                                <div class="progress">
+                                    <span>49</span>
+                                    <progress value="49" max="100"></progress>
+                                </div>
+                                    
+                            </li>
+                            <li class="stat defense">
+                                <h3>
+                                    defense
+                                </h3> 
+                                <div class="progress">
+                                    <span>49</span>
+                                    <progress value="49" max="100"></progress>
+                                </div>
+                                    
+                            </li>
+                            <li class="stat special-attack">
+                                <h3>
+                                    special-attack
+                                </h3> 
+                                <div class="progress">
+                                    <span>65</span>
+                                    <progress value="65" max="100"></progress>
+                                </div>
+                                    
+                            </li>
+                            <li class="stat special-defense">
+                                <h3>
+                                    special-defense
+                                </h3> 
+                                <div class="progress">
+                                    <span>65</span>
+                                    <progress value="65" max="100"></progress>
+                                </div>
+                                    
+                            </li>
+                            <li class="stat speed">
+                                <h3>
+                                    speed
+                                </h3> 
+                                <div class="progress">
+                                    <span>45</span>
+                                    <progress value="45" max="100"></progress>
+                                </div>
+                                    
+                            </li>
+                        </ul>
+            </div>
+        </div> 
+        </section>
+    </main>
+
+    <footer class="footer container fadeIn" aria-label="Rodapé">
+        <h3>Criado por MMM com <i class="fa-solid fa-heart" style="color: #ff0000;"></i>.</h3>
+    </footer>
+
+    <script src="assets/js/pokemon-model.js"></script>
+    <script src="assets/js/poke-api.js"></script>
+    <script src="assets/js/loadPokemon.js"></script>
+
+
+</body></html>
