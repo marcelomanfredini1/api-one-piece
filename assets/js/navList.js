@@ -1,4 +1,21 @@
-const menuList = [
+const ArrayMenuList = [
+    {
+        id: 0,
+        image: "one-piece-the-sagas.png",
+        url: "index.html",
+        translate: [
+          {
+            id: 1,
+            language: "pt-br",
+            title: "Inicio",
+          },
+          {
+            id: 2,
+            language: "en",
+            title: "Inicio",
+          },
+        ],
+      },
   {
     id: 1,
     image: "one-piece-the-sagas.png",
@@ -7,7 +24,7 @@ const menuList = [
       {
         id: 1,
         language: "pt-br",
-        title: "as sagas",
+        title: "Sagas",
       },
       {
         id: 2,
@@ -24,7 +41,7 @@ const menuList = [
       {
         id: 1,
         language: "pt-br",
-        title: "as frutas",
+        title: "Frutas",
       },
       {
         id: 2,
@@ -41,7 +58,7 @@ const menuList = [
       {
         id: 1,
         language: "pt-br",
-        title: "os capítulos | episódios",
+        title: "Capítulos | Episódios",
       },
       {
         id: 2,
@@ -50,40 +67,40 @@ const menuList = [
       },
     ],
   },
-  // {
-  //   id: 4,
-  //   image: "one-piece-volumes.png",
-  //   url: "sagas.html",
-  //   translate: [
-  //     {
-  //       id: 1,
-  //       language: "pt-br",
-  //       title: "volumes",
-  //     },
-  //     {
-  //       id: 2,
-  //       language: "en",
-  //       title: "volumes",
-  //     },
-  //   ],
-  // },
-  // {
-  //   id: 5,
-  //   image: "one-piece-the-episodes.png",
-  //   url: "sagas.html",
-  //   translate: [
-  //     {
-  //       id: 1,
-  //       language: "pt-br",
-  //       title: "os episódios",
-  //     },
-  //     {
-  //       id: 2,
-  //       language: "en",
-  //       title: "the episodes",
-  //     },
-  //   ],
-  // },
+//   {
+//     id: 4,
+//     image: "one-piece-volumes.png",
+//     url: "sagas.html",
+//     translate: [
+//       {
+//         id: 1,
+//         language: "pt-br",
+//         title: "volumes",
+//       },
+//       {
+//         id: 2,
+//         language: "en",
+//         title: "volumes",
+//       },
+//     ],
+//   },
+//   {
+//     id: 5,
+//     image: "one-piece-the-episodes.png",
+//     url: "sagas.html",
+//     translate: [
+//       {
+//         id: 1,
+//         language: "pt-br",
+//         title: "os episódios",
+//       },
+//       {
+//         id: 2,
+//         language: "en",
+//         title: "the episodes",
+//       },
+//     ],
+//   },
   {
     id: 6,
     image: "one-piece-dials.png",
@@ -92,7 +109,7 @@ const menuList = [
       {
         id: 1,
         language: "pt-br",
-        title: "dials",
+        title: "Dials",
       },
       {
         id: 2,
@@ -109,7 +126,7 @@ const menuList = [
       {
         id: 1,
         language: "pt-br",
-        title: "os filmes",
+        title: "Filmes",
       },
       {
         id: 2,
@@ -126,7 +143,7 @@ const menuList = [
       {
         id: 1,
         language: "pt-br",
-        title: "as espadas",
+        title: "Espadas",
       },
       {
         id: 2,
@@ -143,7 +160,7 @@ const menuList = [
       {
         id: 1,
         language: "pt-br",
-        title: "hakis",
+        title: "Hakis",
       },
       {
         id: 2,
@@ -160,7 +177,7 @@ const menuList = [
       {
         id: 1,
         language: "pt-br",
-        title: "gears do luffy",
+        title: "Gears do luffy",
       },
       {
         id: 2,
@@ -177,7 +194,7 @@ const menuList = [
       {
         id: 1,
         language: "pt-br",
-        title: "técnicas do luffy",
+        title: "Técnicas do luffy",
       },
       {
         id: 2,
@@ -194,7 +211,7 @@ const menuList = [
       {
         id: 1,
         language: "pt-br",
-        title: "a tripulação",
+        title: "Tripulação",
       },
       {
         id: 2,
@@ -211,7 +228,7 @@ const menuList = [
       {
         id: 1,
         language: "pt-br",
-        title: "os personagens",
+        title: "Personagens",
       },
       {
         id: 2,
@@ -228,7 +245,7 @@ const menuList = [
       {
         id: 1,
         language: "pt-br",
-        title: "os barcos",
+        title: "Barcos",
       },
       {
         id: 2,
@@ -245,7 +262,7 @@ const menuList = [
       {
         id: 1,
         language: "pt-br",
-        title: "arcos",
+        title: "Arcos",
       },
       {
         id: 2,
@@ -262,7 +279,7 @@ const menuList = [
       {
         id: 1,
         language: "pt-br",
-        title: "os locais",
+        title: "Locais",
       },
       {
         id: 2,
@@ -270,30 +287,19 @@ const menuList = [
         title: "locations",
       },
     ],
-  },
+  }
 ];
 
-const menu = document.getElementById("onepieceList");
 
-const listMenu = menuList.map((menu, index) => {
+const menuListhtml = ArrayMenuList.map((menu, index) => {
 
-  return `    
-    <li class="fadeIn">
-        <a href="${menu.url}" class="pokemon">
-            <span class="number slideInDown">#${menu.translate[0].title}</span>
-            <h2 class="name slideInDown">${menu.translate[0].title}</h2>
-            <div class="detail">
-                <ol class="types">
-                    
-                </ol>
-                <img src="./assets/img/${menu.image}"
-                    alt="" width="156" height="156" class="slideInRight">
-            </div>
-        </a>
-    </li>
- `;
+    console.log(menu.translate[0].title);
+
+  return `                 
+            <li>
+                <a href="${menu.url}">${menu.translate[0].title}</a>
+            </li>                                         
+         `;
 });
-
-const htmlString = listMenu.join("");
-
-menu.innerHTML = htmlString
+$("#navList").html(menuListhtml.join(""));
+  

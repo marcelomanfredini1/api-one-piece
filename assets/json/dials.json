@@ -1,0 +1,172 @@
+[
+    {
+      "name": "Axe-Dial",
+      "type": "Dials",
+      "url_img": "./assets/img/dials/dials_1.png"
+    },
+    {
+      "name": "Spéro-Dial",
+      "type": "Dials",
+      "url_img": "./assets/img/dials/dials_1.png"
+    },
+    {
+      "name": "Breath-Dial",
+      "type": "Dials",
+      "url_img": "./assets/img/dials/dials_1.png"
+    },
+    {
+      "name": "Eisen-Dial",
+      "type": "Dials",
+      "url_img": "./assets/img/dials/dials_1.png"
+    },
+    {
+      "name": "Flamme-Dial",
+      "type": "Dials",
+      "url_img": "./assets/img/dials/dials_1.png"
+    },
+    {
+      "name": "Flash-Dial",
+      "type": "Dials",
+      "url_img": "./assets/img/dials/dials_1.png"
+    },
+    {
+      "name": "Flavor-Dial",
+      "type": "Dials",
+      "url_img": "./assets/img/dials/dials_1.png"
+    },
+    {
+      "name": "Heat-Dial",
+      "type": "Dials",
+      "url_img": "./assets/img/dials/dials_1.png"
+    },
+    {
+      "name": "Impact-Dial",
+      "type": "Dials",
+      "url_img": "./assets/img/dials/dials_1.png"
+    },
+    {
+      "name": "Jet-Dial",
+      "type": "Dials",
+      "url_img": "./assets/img/dials/dials_1.png"
+    },
+    {
+      "name": "Lampe-Dial",
+      "type": "Dials",
+      "url_img": "./assets/img/dials/dials_1.png"
+    },
+    {
+      "name": "Milky-Dial",
+      "type": "Dials",
+      "url_img": "./assets/img/dials/dials_1.png"
+    },
+    {
+      "name": "Reject-Dia",
+      "type": "Dial",
+      "url_img": "./assets/img/dials/dials_1.png"
+    },
+    {
+      "name": "Audio-Dial",
+      "type": "Dial",
+      "url_img": "./assets/img/dials/dials_1.png"
+    },
+    {
+      "name": "Visio-Dial",
+      "type": "Dial",
+      "url_img": "./assets/img/dials/dials_1.png"
+    },
+    {
+      "name": "Hydro-Dial",
+      "type": "Dial",
+      "url_img": "./assets/img/dials/dials_1.png"
+    },
+    {
+      "name": "Thunder-Dial",
+      "type": "Dial",
+      "url_img": "./assets/img/dials/dials_1.png"
+    },
+    {
+      "name": "Diial des Ténèbres",
+      "type": "Dial",
+      "url_img": "./assets/img/dials/dials_1.png"
+    },
+    {
+      "name": "Contrôle-Dial",
+      "type": "Dial",
+      "url_img": "./assets/img/dials/dials_1.png"
+    },
+    {
+      "name": "Burn-Bazooka",
+      "type": "Arme basées sur les Dials",
+      "url_img": "./assets/img/dials/dials_1.png"
+    },
+    {
+      "name": "Burn-Blade",
+      "type": "Arme basées sur les Dials",
+      "url_img": "./assets/img/dials/dials_1.png"
+    },
+    {
+      "name": "Flash-Guns",
+      "type": "Arme basées sur les Dials",
+      "url_img": "./assets/img/dials/dials_1.png"
+    },
+    {
+      "name": "Heat-Javelot",
+      "type": "Arme basées sur les Dials",
+      "url_img": "./assets/img/dials/dials_1.png"
+    },
+    {
+      "name": "Kabuto",
+      "type": "Arme basées sur les Dials",
+      "url_img": "./assets/img/dials/dials_1.png"
+    },
+    {
+      "name": "Perfect Climat-Tact",
+      "type": "Arme basées sur les Dials",
+      "url_img": "./assets/img/dials/dials_1.png"
+    },
+    {
+      "name": "Déca-Axe",
+      "type": "Arme basées sur les Dials",
+      "url_img": "./assets/img/dials/dials_1.png"
+    },
+    {
+      "name": "Epée d'Ohm",
+      "type": "Arme basées sur les Dials",
+      "url_img": "./assets/img/dials/dials_1.png"
+    },
+    {
+      "name": "Sky-Arrows",
+      "type": "Arme basées sur les Dials",
+      "url_img": "./assets/img/dials/dials_1.png"
+    },
+    {
+      "name": "Waver",
+      "type": "Transports basés sur les Dials",
+      "url_img": "./assets/img/dials/dials_1.png"
+    },
+    {
+      "name": "Bateaux à Dials",
+      "type": "Transports basés sur les Dials",
+      "url_img": "./assets/img/dials/dials_1.png"
+    },
+    {
+      "name": "Corbeau",
+      "type": "Transports basés sur les Dials",
+      "url_img": "./assets/img/dials/dials_1.png"
+    },
+    {
+      "name": "Jet-Skis",
+      "type": "Transports basés sur les Dials",
+      "url_img": "./assets/img/dials/dials_1.png"
+    },
+    {
+      "name": "Jet-Board",
+      "type": "Transports basés sur les Dials",
+      "url_img": "./assets/img/dials/dials_1.png"
+    },
+    {
+      "name": "Jet Shoes",
+      "type": "Transports basés sur les Dials",
+      "url_img": "./assets/img/dials/dials_1.png"
+    }
+  ]
