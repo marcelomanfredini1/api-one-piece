@@ -618,3 +618,25 @@ textarea {
     height: 100px; /* Ajuste conforme necessário */
     resize: none; /* Permite redimensionamento vertical */
 }
+
+
+.btn-back {
+    text-align: right;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    padding: 12px 12px;
+    border-radius: 30px;
+    transition: all .2s;
+    position: relative;
+    font-weight: 600;
+    margin-left: auto;
+    /* Adicionado para alinhar à direita */
+}
+
+.btn-back:hover {
+    background-color: #2e2e2e;
+    color: #f7f7f7;
+    transform: translateY(-2px)
+}

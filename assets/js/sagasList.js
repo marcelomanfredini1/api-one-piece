@@ -57,8 +57,8 @@ $.get(urlApiSagas, function (response) {
     `;
   });
 
-  $("#sagasList").html(listSagas.join(""));
+  $("#onepieceList").html(listSagas.join(""));
 }).fail(function (error) {
   console.error("Erro ao carregar a lista de Pokémon:", error);
-  $("#sagasList").html(`<p>Erro ao carregar a lista de One Piece.</p>`);
+  $("#onepieceList").html(`<p>Erro ao carregar a lista de One Piece.</p>`);
 });

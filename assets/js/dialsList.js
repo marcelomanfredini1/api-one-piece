@@ -28,5 +28,5 @@ $.get(urlApiDials, function (response) {
         `;
 
     });    
-    $("#dialsList").html(ListDials.join(""));
+    $("#onepieceList").html(ListDials.join(""));
 });

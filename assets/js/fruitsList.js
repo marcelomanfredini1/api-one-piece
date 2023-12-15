@@ -69,8 +69,8 @@ $.get(urlApiFruits, function (response) {
     
   });
 
-  $("#fruitsList").html(listFruits.join(""));
+  $("#onepieceList").html(listFruits.join(""));
 }).fail(function (error) {
   console.error("Erro ao carregar a lista de Pokémon:", error);
-  $("#fruitsList").html(`<p>Erro ao carregar a lista de One Piece.</p>`);
+  $("#onepieceList").html(`<p>Erro ao carregar a lista de One Piece.</p>`);
 });

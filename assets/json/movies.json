@@ -1,0 +1,257 @@
+[
+    {
+      "id": 1,
+      "title": "One Piece: the movie",
+      "title_lang": "One Piece: O Filme",
+      "description": "One Piece: the movie",
+      "description_lang": "Após um encontro casual com um trio de ladrões, os Piratas do Chapéu de Palha acabam em conflito com Eldoraggo, um pirata obcecado por ouro e com poderes de uma temível Akuma no Mi. O objetivo final de Eldoraggo: uma ilha lendária onde o Capitão Woonan teria supostamente guardado ouro além da imaginação. Com a ajuda de um velho vendedor e seu neto - possivelmente as únicas pessoas vivas relacionadas ao Woonan - os Chapéus de Palha devem superar Eldoraggo e sua tripulação, e descobrir por conta própria o segredo de seu maior tesouro. Considerando que Sanji ainda não havia se juntado à tripulação, o filme se passa após o Episódio 18 (de fato, no final do filme, é possível ver que Sanji ainda está no Baratie).",
+      "release_date": "2011-08-24",
+      "url_img": "./assets/img/movies/movie_1.png",
+      "saga": {
+        "id": 1,
+        "title": "East Blue",
+        "saga_number": "1",
+        "saga_chapitre": "1 à 100",
+        "saga_volume": "1 à 12",
+        "saga_episode": "1 à 61"
+      }
+    },
+    {
+      "id": 2,
+      "title": "One Piece: Adventure on Clock Island",
+      "title_lang": "One Piece: Aventura na Ilha Nejimaki ",
+      "description": "One Piece: Adventure on Clock Island",
+      "description_lang": "Em busca do Going Merry, que foi roubado, os Piratas do Chapéu de Palha unem forças com os Irmãos Ladrões, um par de ladrões incomparáveis com grandes planos para a maravilhosa - mas mortal - Ilha Nejimaki. Em pouco tempo, uma guerra total irrompe entre eles e o grupo pirata que reina na ilha; o capitão do grupo, Bear King, planeja não apenas conquistar os mares com uma super arma temível, mas também ter Nami como sua noiva por todos os meios necessários. É localizado depois do Episódio 52.",
+      "release_date": "2011-11-23",
+      "url_img": "./assets/img/movies/movie_2.png",
+      "saga": {
+        "id": 1,
+        "title": "East Blue",
+        "saga_number": "1",
+        "saga_chapitre": "1 à 100",
+        "saga_volume": "1 à 12",
+        "saga_episode": "1 à 61"
+      }
+    },
+    {
+      "id": 3,
+      "title": "One Piece: Chopper's Kingdom, the island of strange beasts",
+      "title_lang": "One Piece: O Reino de Chopper na Ilha dos Estranhos Animais",
+      "description": "One Piece: Chopper's Kingdom, the island of strange beasts",
+      "description_lang": "Contos de um tesouro glorioso levam os Piratas do Chapéu de Palha à Ilha Crown, um deserto exuberante repleto de animais que conseguem pensar como humanos. Por um acaso do destino, Tony Tony Chopper é separado de seus companheiros, e acaba cumprindo uma profecia que o torna o senhor e protetor da ilha. Agora reverenciado pelos habitantes da ilha - particularmente por um garoto que odeia piratas chamado Mobambi - Chopper se vê dividido entre seu novo 'reino' e seu lugar com os Chapéus de Palha. Com o tempo, porém, todos eles são arrastados pelos planos de Conde Battler, um caçador ganancioso que faz de tudo para conseguir os chifres especiais que os animais da ilha possuem. É localizado no meio do Arco Alabasta, após o Episódio 95.",
+      "release_date": "2012-03-07",
+      "url_img": "./assets/img/movies/movie_3.png",
+      "saga": {
+        "id": 2,
+        "title": "Alabasta",
+        "saga_number": "2",
+        "saga_chapitre": "101 à 216",
+        "saga_volume": "12 à 23",
+        "saga_episode": "62 à 143"
+      }
+    },
+    {
+      "id": 4,
+      "title": "One Piece: The dead-end adventure",
+      "title_lang": "One Piece: Aventura Mortal",
+      "description": "One Piece: The dead-end adventure",
+      "description_lang": "Desesperados por dinheiro, os Piratas do Chapéu de Palha entram em uma disputa secreta entre tripulações piratas. Lá, eles devem lutar contra pessoas poderosas, incluindo um ex-marinheiro que virou pirata, o Capitão Gasparde. No entanto, Gasparde tem um plano mortal que envolve eliminar todos os outros competidores. É localizado após o Episódio 130.",
+      "release_date": "2012-04-20",
+      "url_img": "./assets/img/movies/movie_4.png",
+      "saga": {
+        "id": 2,
+        "title": "Alabasta",
+        "saga_number": "2",
+        "saga_chapitre": "101 à 216",
+        "saga_volume": "12 à 23",
+        "saga_episode": "62 à 143"
+      }
+    },
+    {
+      "id": 5,
+      "title": "One Piece: Curse of the Sacred Sword",
+      "title_lang": "One Piece: A Maldição da Espada Sagrada",
+      "description": "One Piece: Curse of the Sacred Sword",
+      "description_lang": "Na ilha Asuka, os Piratas do Chapéu de Palha ouvem sobre a Espada das Sete Estrelas, considerada a espada mais bela do mundo e um tesouro valioso, embora contenha uma maldição mortal. Quando eles voltam para o navio, descobrem que Zoro, que deveria estar de guarda, desapareceu, mas são forçados a deixar o porto quando são atacados pela Marinha. Eles atracam em outra parte da ilha e se deparam com uma vila, cujo trabalho é manter a Espada das Sete Estrelas selada. A Marinha ataca a ilha em uma tentativa de libertar a espada, e Zoro está com eles. Por que ele faria isso? Qual é o segredo da espada? As respostas estão na noite da lua vermelha. É localizado depois do Arco Skypiea, após o Episódio 195.",
+      "release_date": "2012-08-29",
+      "url_img": "./assets/img/movies/movie_5.png",
+      "saga": {
+        "id": 2,
+        "title": "Alabasta",
+        "saga_number": "2",
+        "saga_chapitre": "101 à 216",
+        "saga_volume": "12 à 23",
+        "saga_episode": "62 à 143"
+      }
+    },
+    {
+      "id": 6,
+      "title": "One Piece: Baron Amatsuri and the secret island",
+      "title_lang": "One Piece: Barão Omatsuri e a Ilha Secreta",
+      "description": "One Piece: Baron Amatsuri and the secret island",
+      "description_lang": "Os Chapéus de Palha recebem um convite para um resort na ilha Omatsuri. Eles decidem tirar uma pausa de suas aventuras e se divertir um pouco. No entanto, quando chegam lá, eles são enganados pelo Barão da ilha a participar de desafios ridículos. Luffy está ansioso para provar que ele e sua tripulação são os 'piratas entre os piratas entre os piratas' e concorda sem pensar. Será que realmente valerá a pena? É localizado após o Episódio 219.",
+      "release_date": "2012-10-17",
+      "url_img": "./assets/img/movies/movie_6.png",
+      "saga": {
+        "id": 4,
+        "title": "Water Seven / CP9",
+        "saga_number": "4",
+        "saga_chapitre": "304 à 441",
+        "saga_volume": "33 à 46",
+        "saga_episode": "207 à 325"
+      }
+    },
+    {
+      "id": 7,
+      "title": "One Piece: The giant mecha of Karakuri Castle",
+      "title_lang": "One Piece: Os Mechas do Castelo Karakuri",
+      "description": "One Piece: The giant mecha of Karakuri Castle",
+      "description_lang": "Tendo recuperado um baú do tesouro de um navio afundado, os Piratas do Chapéu de Palha mal podem esperar para ver que riquezas ele contém. Em vez de um tesouro, eles encontram uma velhinha. Ansiosa para voltar para casa (e evitar a ira de Nami por ter jogado fora o tesouro que ali estava), a velha senhora oferece uma grande recompensa se a tripulação a levar para sua casa na Ilha Mecha. A lenda da Coroa de Ouro que a senhora conta parece boa demais para ser verdade. Luffy se empolga para a aventura, e a tripulação não tem escolha. Em uma ilha cheia de incríveis invenções, a tripulação testará suas habilidades de resolver enigmas para desvendar o mistério da Ilha Mecha e seu tesouro. É localizado antes do Arco Water 7, após o Episódio 228.",
+      "release_date": "2013-07-05",
+      "url_img": "./assets/img/movies/movie_7.png",
+      "saga": {
+        "id": 4,
+        "title": "Water Seven / CP9",
+        "saga_number": "4",
+        "saga_chapitre": "304 à 441",
+        "saga_volume": "33 à 46",
+        "saga_episode": "207 à 325"
+      }
+    },
+    {
+      "id": 8,
+      "title": "One Piece, Alabasta episode: The Pirates and the Desert Princess",
+      "title_lang": "One Piece, Episódio Alabasta: A Princesa do Deserto e os Piratas",
+      "description": "One Piece, Alabasta episode: The Pirates and the Desert Princess",
+      "description_lang": "Este filme é uma compilação resumida do Arco Alabasta, com algumas diferenças notáveis: 'Zoro não menciona que recebeu um convite para fazer parte da Baroque Works. Ace, Smoker, Tashigi, Hina, Fullbody, Jango e Mr. 3 não aparecem. Os Chapéus de Palha não vão para Rainbase. A segunda luta de Luffy com Crocodile foi cortada. A conversa de Robin com Cobra sobre os Poneglyphs foi removida. Robin menciona a Vontade de D. e Jaguar D. Saul. Todos os combates foram alterados para ficarem mais curtos. A cena do banheiro não é mostrada. Apesar de recontar o Arco Alabasta, alguns eventos futuros são mencionados.' É localizado após o Episódio 312.",
+      "release_date": "2013-03-20",
+      "url_img": "./assets/img/movies/movie_8.png",
+      "saga": {
+        "id": 2,
+        "title": "Alabasta",
+        "saga_number": "2",
+        "saga_chapitre": "101 à 216",
+        "saga_volume": "12 à 23",
+        "saga_episode": "62 à 143"
+      }
+    },
+    {
+      "id": 9,
+      "title": "One Piece, Chopper episode: The Miracle of the Winter Cherry Trees",
+      "title_lang": "One Piece, Episódio Chopper Plus: Flor do Inverno, Milagre da Cerejeira",
+      "description": "One Piece, Chopper episode: The Miracle of the Winter Cherry Trees",
+      "description_lang": "Este filme é uma recriação do Arco Ilha Drum com Franky, Nico Robin e o Thousand Sunny presentes. O filme conta com algumas mudanças drásticas: 'Luffy usa o Gear Second e o Gear Third. Nefertari Vivi não aparece, e algumas de suas ações são feitas pela Robin. Um novo personagem, Musshuru, aparece. Ele é o irmão mais velho de Wapol, e um dos antagonistas do filme. Os poderes de Akuma no Mi de Dalton não são vistos ou mencionados.' Com as alterações, o filme é localizado após o Episódio 325.",
+      "release_date": "2013-05-22",
+      "url_img": "./assets/img/movies/movie_9.png",
+      "saga": {
+        "id": 2,
+        "title": "Alabasta",
+        "saga_number": "2",
+        "saga_chapitre": "101 à 216",
+        "saga_volume": "12 à 23",
+        "saga_episode": "62 à 143"
+      }
+    },
+    {
+      "id": 10,
+      "title": "One Piece: Strong World",
+      "title_lang": "One Piece Filme: Strong World",
+      "description": "One Piece: Strong World",
+      "description_lang": "É o primeiro filme cuja história foi escrita pelo criador do mangá, Eiichiro Oda. O East Blue está crise? A notícia atinge os Piratas do Chapéu de Palha ao longo de sua jornada. Com suas cidades natais ameaçadas, Luffy e seus amigos decidem voltar ao East Blue, mas são surpreendidos por um misterioso navio voador. O capitão do navio é Shiki, o Leão Dourado, um pirata lendário que conseguiu escapar de Impel Down e é tão infame quanto Gol D. Roger e Barba Branca. Depois de sequestrar Nami por suas habilidades de navegação, Shiki envia Luffy e sua tripulação para um arquipélago de ilhas flutuantes. Separados, a tripulação se vê colocada em uma batalha de sobrevivência com feras aterrorizantes em um ambiente misterioso. É localizado depois do Arco Thriller Bark e antes do Arco Arquipélago de Sabaody, após o Episódio 381.",
+      "release_date": "2011-08-24",
+      "url_img": "./assets/img/movies/movie_10.png",
+      "saga": {
+        "id": 1,
+        "title": "East Blue",
+        "saga_number": "1",
+        "saga_chapitre": "1 à 100",
+        "saga_volume": "1 à 12",
+        "saga_episode": "1 à 61"
+      }
+    },
+    {
+      "id": 11,
+      "title": "One Piece 3D: In pursuit of the straw hat",
+      "title_lang": "One Piece 3D: A Perseguição ao Chapéu de Palha",
+      "description": "One Piece 3D: In pursuit of the straw hat",
+      "description_lang": "Os Piratas do Chapéu de Palha procuram o chapéu de palha de Luffy, que desapareceu enquanto ele dormia. Ao mesmo tempo, enquanto exploravam um navio que parecia estar vazio, Usopp e Chopper encontram um pirata que estava doente e decidem cuidar dele no Thousand Sunny. Quando um pássaro é visto segurando o chapéu de Luffy, a tripulação começa a persegui-lo, e precisam superar obstáculos inesperados como a Marinha e os Reis dos Mares. É localizado após o Episódio 381.",
+      "release_date": "2012-07-07",
+      "url_img": "./assets/img/movies/movie_11.png",
+      "saga": {
+        "id": 5,
+        "title": "Thriller Bark",
+        "saga_number": "5",
+        "saga_chapitre": "442 à 490",
+        "saga_volume": "47 à 50",
+        "saga_episode": "326 à 389"
+      }
+    },
+    {
+      "id": 12,
+      "title": "One Piece : Z",
+      "title_lang": "One Piece Filme: Z",
+      "description": "One Piece : Z",
+      "description_lang": "É o primeiro filme feito após o timeskip e no Novo Mundo. Eiichiro Oda atuou como produtor executivo. Dita ser comparável às Armas Antigas, as 'Pedras Dyna' foram subitamente roubadas pelo poderoso ex-Almirante da Marinha 'Z', que fica no caminho dos Piratas do Chapéu de Palha. O Quartel-General da Marinha age para lidar com a conspiração que ameaça os pilares do Novo Mundo, e Kuzan encontra os Piratas do Chapéu de Palha no Novo Mundo. Luffy e sua tripulação decidem agir contra Z e seu incrível poder. É localizado antes do Arco Punk Hazard, depois do Episódio 578, quando os episódios especiais do filme foram lançados.",
+      "release_date": "2013-05-15",
+      "url_img": "./assets/img/movies/movie_12.png",
+      "saga": {
+        "id": 7,
+        "title": "Île des Hommes-Poissons",
+        "saga_number": "7",
+        "saga_chapitre": "598 à 653",
+        "saga_volume": "62 à 66",
+        "saga_episode": "517 à 574"
+      }
+    },
+    {
+      "id": 13,
+      "title": "One Piece : Gold",
+      "title_lang": "One Piece Filme: Gold",
+      "description": "One Piece : Gold",
+      "description_lang": "Assim como no filme anterior, Eiichiro Oda atuou como produtor executivo. Os Piratas do Chapéu de Palha vão para Gran Tesoro, um país independente, reconhecido pelo Governo Mundial, e lar da maior cidade de entretenimento do mundo. É um local onde piratas conhecidos, marinheiros e milionários de todo o mundo se reúnem em um 'santuário absoluto' que nem mesmo o Governo Mundial pode tocar. Lá, os Chapéus de Palha encontram o governante do país, Gild Tesoro, que facilmente conquista piratas, marinheiros e até mesmo o Governo Mundial com seu dinheiro. Ele está prestes a agir para satisfazer sua ambição sem fim, que pode resultar em grandes mudanças nas relações de poder do Novo Mundo. É localizado após o Arco Dressrosa e antes do Arco Zou, a partir do Episódio 746, quando o especial Heart of Gold foi lançado.",
+      "release_date": "2016-11-02",
+      "url_img": "./assets/img/movies/movie_13.png",
+      "saga": {
+        "id": 8,
+        "title": "Dressrosa / Pirate Alliance",
+        "saga_number": "8",
+        "saga_chapitre": "654 à 801",
+        "saga_volume": "66 à 80",
+        "saga_episode": "575 à 746"
+      }
+    },
+    {
+      "id": 14,
+      "title": "One Piece: Stampede",
+      "title_lang": "One Piece: Stampede",
+      "description": "One Piece: Stampede",
+      "description_lang": "Eiichiro Oda atuou como supervisor criativo. Os Piratas do Chapéu de Palha são convidados para o Festival Pirata, 'feito por piratas, para piratas', onde piratas infames de todo o mundo, incluindo Supernovas e Shichibukais, competem em um caça ao tesouro. Mas dessa vez, a recompensa é um tesouro deixado pelo próprio Rei dos Piratas, Gol D. Roger! É localizado após o Arco Levely e antes do Arco País de Wano, a partir do Episódio 890.",
+      "release_date": "2019-10-09",
+      "url_img": "./assets/img/movies/movie_14.png",
+      "saga": {
+        "id": 0,
+        "title": "",
+        "saga_number": "",
+        "saga_chapitre": "",
+        "saga_volume": "",
+        "saga_episode": ""
+      }
+    },
+    {
+      "id": 15,
+      "title": "One Piece: Red",
+      "title_lang": "One Piece Filme: Red",
+      "description": "One Piece: Red",
+      "description_lang": "Nele, os Chapéus de Palha participarão de um festival musical em alguma ilha. Conforme revelado pelo primeiro teaser, o enredo envolverá Shanks, cuja cicatriz pode ser vista no 'D' do logotipo do filme. Além disso, uma nova personagem feminina aparecerá no filme, que Oda observou ser uma saída dos personagens masculinos velhos que estrelaram como vilões em filmes anteriores. O pôster do teaser mostra essa mulher, que parece ser residente de alguma Ilha do Céu.De acordo com o primeiro trailer oficial, ela seria filha de Shanks",
+      "release_date": "2022-08-10",
+      "url_img": "./assets/img/movies/movie_15.png",
+      "saga": {
+        "id": 0,
+        "title": "",
+        "saga_number": "",
+        "saga_chapitre": "",
+        "saga_volume": "",
+        "saga_episode": ""
+      }
+    }
+  ]

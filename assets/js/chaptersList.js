@@ -63,7 +63,7 @@ const result = Object.values(groupedByList);
             </li>
             `;
   });
-$("#chaptersList").html(ListChapters.join(""));
+$("#onepieceList").html(ListChapters.join(""));
 
   //console.log(chaptersList);
 });

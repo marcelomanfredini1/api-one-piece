@@ -121,7 +121,7 @@ const ArrayMenuList = [
   {
     id: 7,
     image: "one-piece-the-films.png",
-    url: "sagas.html",
+    url: "movies.html",
     translate: [
       {
         id: 1,

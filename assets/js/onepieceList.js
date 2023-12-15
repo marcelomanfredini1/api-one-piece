@@ -104,7 +104,7 @@ const menuList = [
   {
     id: 7,
     image: "one-piece-the-films.png",
-    url: "sagas.html",
+    url: "movies.html",
     translate: [
       {
         id: 1,
@@ -273,6 +273,9 @@ const menuList = [
   },
 ];
 
+
+const input = document.getElementById('search')
+
 const menu = document.getElementById("onepieceList");
 
 const listMenu = menuList.map((menu, index) => {
@@ -287,7 +290,7 @@ const listMenu = menuList.map((menu, index) => {
                     
                 </ol>
                 <img src="./assets/img/${menu.image}"
-                    alt="" width="156" height="156" class="slideInRight">
+                    alt="" width="300" height="156" class="slideInRight">
             </div>
         </a>
     </li>

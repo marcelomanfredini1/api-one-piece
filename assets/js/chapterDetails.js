@@ -40,6 +40,7 @@ $.get(urlApiChapters, function (response) {
 
     return  `
               <div class="pokemon-individual container">
+              <button class="btn-back" onclick="history.back()">Voltar</button>
                 <div class="pokemon-infos">
                     <div class="pokemon-img slideInLeft">
                     <img  src="${chapters.url_img}"
